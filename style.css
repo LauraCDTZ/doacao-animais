@@ -1,0 +1,27 @@
+body{
+    background-color:rgba(247, 247, 247, 0.911)
+}
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.3rem;
+    font-weight: 100;
+}
+
+img{
+    padding:1px;
+    margin:8px;
+}
+
+h3{
+    font-family: serif;
+    font-size: 1.5rem;
+    margin: 12px;
+    padding:10px;
+}
+
+ul{
+    font-family: arial;
+    font-size: 1rem;  
+}
